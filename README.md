@@ -20,6 +20,8 @@ Create your own repository based on this template and push your markdown files, 
 
 ## 準備
 
+![Qiita Sync](https://github.com/shohirose/qiita-articles/actions/workflows/qiita_sync_check.yml/badge.svg)
+
 1. このページの右上にある "Use this template" ボタンをクリックして、GitHub リポジトリを作成します。
 2. Qiita サイトで "Qiita Access Token" を作成し、生成された token をコピーします。
 3. GitHub リポジトリで、"Settings" >> "Secrets" >> "Actions" >> "New repository secret" を開きます。
